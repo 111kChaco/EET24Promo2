@@ -1,6 +1,5 @@
 package excepciones;
 
-import sun.reflect.annotation.ExceptionProxy;
 
 public class Main {
     public static void main(String[] args) {
